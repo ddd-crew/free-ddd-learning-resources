@@ -9,6 +9,7 @@ This repository contains a collection of blog posts, videos and other resources 
 2. [Collaborative Modelling](#collaborative-modelling)
 3. [Strategic Design](#strategic-design)
 4. [Tactical DDD / Domain-as-code](#tactical-ddd--domain-as-code)
+5. [Case Studies](#case-studies)
 
 ## DDD Introductions and Fundamentals
 
@@ -111,6 +112,10 @@ These resources show how to design software which is closely aligned to the busi
 ### Other Resources
 
 - [DDD By Examples](https://github.com/ddd-by-examples/library), Jakub Pilimon and Bartłomiej Słota
+
+## Case Studies
+
+- [OOps I DDD it again and again](https://www.slideshare.net/OraEgoziBarzilai/mucon-2019-oops-i-ddd-it-again-and-again), Ora Egozi-Barzilai
 
 ## Contributions and Inspiration
 
