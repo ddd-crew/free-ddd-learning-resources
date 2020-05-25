@@ -12,7 +12,7 @@ This repository contains a collection of blog posts, videos and other resources 
 
 ## DDD Introductions and Fundamentals
 
-These resources are typicall aimed at beginners providing an overview of DDD as a whole and how the individual concepts fit together.
+These resources are typically aimed at beginners providing an overview of DDD as a whole and how the individual concepts fit together.
 
 ### EBooks
 
@@ -71,7 +71,7 @@ These resources teach and show how software development practitioners and domain
 
 ## Strategic Design
 
-The resources teach how to decompose a large domain into sub-domains and represent them as high-level architectural components called Bounded Contexts.
+These resources teach how to decompose a large domain into sub-domains and represent them as high-level architectural components called Bounded Contexts.
 
 ### Written Articles
 
