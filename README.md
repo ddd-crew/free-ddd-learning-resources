@@ -8,7 +8,7 @@ This repository contains a collection of blog posts, videos and other resources 
 1. [DDD Introductions & Fundamentals](#ddd-introductions-and-fundamentals)
 2. [Collaborative Modelling](#collaborative-modelling)
 3. [Strategic Design](#strategic-design)
-4. [Tactical DDD / Domain-as-code](#tactical-ddd--domain-as-code)
+4. [Tactical DDD / Domain-as-code](#tactical-ddd-domain-as-code)
 5. [Case Studies](#case-studies)
 
 ## DDD Introductions and Fundamentals
@@ -26,7 +26,7 @@ These resources are typically aimed at beginners providing an overview of DDD as
 
 ### Written Articles
 
-- [Domain-Driven Design](https://www.thoughtworks.com/insights/blog/domain-driven-design-neednt-be-hard-heres-how-start), Martin Fowler
+- [Domain-Driven Design](https://martinfowler.com/bliki/DomainDrivenDesign.html), Martin Fowler
 
 - [Domain-driven design needn't be hard. Here's how to start](https://www.thoughtworks.com/insights/blog/domain-driven-design-neednt-be-hard-heres-how-start), Andrew Hamel-law
 
