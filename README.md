@@ -10,6 +10,7 @@ This repository contains a collection of blog posts, videos and other resources 
 3. [Strategic Design](#strategic-design)
 4. [Tactical DDD / Domain-as-code](#tactical-ddd-domain-as-code)
 5. [Case Studies](#case-studies)
+6. [DDD Blogs](#ddd-blogs)
 
 ## DDD Introductions and Fundamentals
 
@@ -90,6 +91,10 @@ These resources teach how to decompose a large domain into sub-domains and repre
 
 - [Emergent Boundaries](https://verraes.net/2017/04/emergent-boundaries/), Matthias Verraes
 
+- [Socio-technical architecture](https://www.youtube.com/watch?v=9Ft39wz6fHM), Ora Egozi Barzilai and Evelyn van Kelle
+
+- [All Our Aggregates Are Wrong](https://www.youtube.com/watch?v=KkzvQSuYd5I), Mauro Servienti
+
 ### Other Resources
 
 - [Aligning organization and architecture with strategic DDD](https://speakerdeck.com/mploed/aligning-organization-and-architecture-with-strategic-ddd), Michael Plöd 
@@ -111,6 +116,8 @@ These resources show how to design software which is closely aligned to the busi
 
 - [Design in the small](https://www.youtube.com/watch?v=3iLW4puXHvc), Yves Reynhout
 
+- [Refactoring for DDD Without Microservicing Your Monolith](https://www.youtube.com/watch?v=y2mL-6CcYBw), Harry Brumleve
+
 ### Other Resources
 
 - [DDD By Examples](https://github.com/ddd-by-examples/library), Jakub Pilimon and Bartłomiej Słota
@@ -118,6 +125,26 @@ These resources show how to design software which is closely aligned to the busi
 ## Case Studies
 
 - [OOps I DDD it again and again](https://www.slideshare.net/OraEgoziBarzilai/mucon-2019-oops-i-ddd-it-again-and-again), Ora Egozi-Barzilai
+
+- [10 Lessons from a Long Running DDD Project](https://lostechies.com/jimmybogard/2016/06/13/10-lessons-from-a-long-running-ddd-project-part-1/), Jimmy Bogard
+
+## DDD Blogs
+
+- [Alberto Brandolini](https://ziobrando.blogspot.it/)
+
+- [DDD Weekly](http://dddweekly.com/)
+
+- [Kenny Baas-Schwegler](https://baasie.com/)
+
+- [Paul Rayner](http://thepaulrayner.com/)
+
+- [Udi Dahan](http://udidahan.com/category/ddd/)
+
+- [Vladik Khononov](https://vladikk.com/)
+
+- [Zsofia Herendi](https://www.zherendi.com/blog)
+
+
 
 ## Contributions and Inspiration
 
