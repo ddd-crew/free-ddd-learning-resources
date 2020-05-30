@@ -23,6 +23,8 @@ These resources are typically aimed at beginners providing an overview of DDD as
 
 - [DDD: The First 15 Years](https://leanpub.com/ddd_first_15_years), Various Authors
 
+- [Domain-Driven Design Quickly](https://www.infoq.com/minibooks/domain-driven-design-quickly/), Abel Avram and Floyd Marinescu
+
 
 ### Written Articles
 
