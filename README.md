@@ -8,7 +8,7 @@ This repository contains a collection of blog posts, videos and other resources 
 1. [DDD Introductions & Fundamentals](#ddd-introductions-and-fundamentals)
 2. [Collaborative Modelling](#collaborative-modelling)
 3. [Strategic Design](#strategic-design)
-4. [Tactical DDD / Domain-as-code](#tactical-ddd-domain-as-code)
+4. [Tactical DDD / Domain-as-code](#tactical-ddd--domain-as-code)
 5. [Case Studies](#case-studies)
 6. [DDD Blogs](#ddd-blogs)
 
@@ -153,3 +153,5 @@ In addition to the content creators of each of the resources, thanks also goes t
 - [Krzysztof Góralski](https://twitter.com/k_goralski)
 
 - [Nick Chamberlain](https://twitter.com/heynickc)
+
+We also thank to all [existing and future contributors](https://github.com/ddd-crew/free-ddd-learning-resources/graphs/contributors)
