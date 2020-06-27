@@ -106,6 +106,11 @@ These resources teach how to decompose a large domain into sub-domains and repre
 
 These resources show how to design software which is closely aligned to the business domain so that it is easier to understand and change.
 
+### Ebooks
+
+- [Architecture Patterns with Python](http://www.cosmicpython.com), Harry Percival & Bob Gregory
+
+
 ### Written Articles
 
 - [Aggregates & Entities in Domain-Driven Design](http://thepaulrayner.com/blog/aggregates-and-entities-in-domain-driven-design/), Paul Rayner
