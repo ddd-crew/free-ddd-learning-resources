@@ -51,7 +51,7 @@ These resources are typically aimed at beginners providing an overview of DDD as
 
 - [Virtual DDD Meetup Group](https://virtualddd.com/)
 
-- [DDD-CQRS-ES Slack channel](https://ddd-cqrs-es.slack.com) is a very active community to ask questions about anything relating to DDD, and get answers from practitioners in different contexts - Link to join: https://j.mp/ddd-es-cqrs 
+- [DDD-CQRS-ES Discord Server](https://github.com/ddd-cqrs-es/community) is a very active community to ask questions about anything relating to DDD, and get answers from practitioners in different contexts
 
 
 ## Collaborative Modelling
