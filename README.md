@@ -99,7 +99,9 @@ These resources teach how to decompose a large domain into sub-domains and repre
 
 ### Other Resources
 
-- [Aligning organization and architecture with strategic DDD](https://speakerdeck.com/mploed/aligning-organization-and-architecture-with-strategic-ddd), Michael Plöd 
+- [Aligning organization and architecture with strategic DDD](https://speakerdeck.com/mploed/aligning-organization-and-architecture-with-strategic-ddd), Michael Plöd
+
+- [Strategic Domain-Driven Design Kata: Delivericious](https://medium.com/nick-tune-tech-strategy-blog/strategic-domain-driven-design-kata-delivericious-b114ca77163), Nick Tune
 
 
 ## Tactical DDD / Domain-as-code
