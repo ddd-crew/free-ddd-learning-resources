@@ -164,3 +164,10 @@ In addition to the content creators of each of the resources, thanks also goes t
 - [Nick Chamberlain](https://twitter.com/heynickc)
 
 We also thank to all [existing and future contributors](https://github.com/ddd-crew/free-ddd-learning-resources/graphs/contributors)
+
+
+## License
+
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
